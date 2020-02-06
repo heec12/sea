@@ -45,7 +45,7 @@ for i in range(toolbar_width):
 
 sys.stdout.write("\n")
 
-img=mpimg.imread('output/results.png')
+img=mpimg.imread('output/results1.png')
 imgplot = plt.imshow(img)
 plt.axis('off')
 plt.show()
