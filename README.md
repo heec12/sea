@@ -1,8 +1,8 @@
-# Project Title
+# SEA(Self Evaluation of Advising effectiveness)
 
 The Self-evaluation checklists are designed to assist Ph.D. advisors to improve advising their students. This code solves the complex equations of human interactions. After the problem is simulated, it determines how good you are at advising your students. 
 
-## Running program
+## Running SEA
 
 It is python-based program written specifically for one type simulation. Although, the same capability could be extended for multiple problems in future with enough support (time) for this project.
 
