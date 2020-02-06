@@ -1,4 +1,4 @@
-# SEA(Self Evaluation of Advising effectiveness)
+# SEA(Self Evaluation of Advising effetiveness)
 
 The Self-evaluation checklists are designed to assist Ph.D. advisors to improve advising their students. This code solves the complex equations of human interactions. After the problem is simulated, it determines how good you are at advising your students. 
 
