@@ -45,7 +45,7 @@ for i in range(toolbar_width):
 
 sys.stdout.write("\n")
 
-img=mpimg.imread(downloadsdir + 'output.png')
+img=mpimg.imread('output/results.png')
 imgplot = plt.imshow(img)
 plt.axis('off')
 plt.show()
